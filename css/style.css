@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+h2 {
+  color: #1a73e8;
+}
+
+.answer {
+  display: none; /* Piilotetaan aluksi */
+  margin-left: 20px;
+  color: #333;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 15px;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  background-color: #1a73e8;
+  color: white;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #155fc1;
+}
